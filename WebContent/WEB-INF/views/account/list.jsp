@@ -28,10 +28,7 @@
 <div id="add-dialog" class="easyui-dialog" data-options="closed:true,iconCls:'icon-save'" style="width:420px; padding:10px;">
 	<form id="add-form" method="post">
         <table>
-            <tr>
-                <td align="right">名称:</td>
-                <td><input type="text" id="add-name" name="name" class="wu-text easyui-validatebox" data-options="required:true, missingMessage:'请填写客户名称'" /></td>
-            </tr>
+            
              <tr>
                 <td align="right">密码:</td>
                 <td><input type="password" id="add-password" name="password" class="wu-text easyui-validatebox" data-options="required:true, missingMessage:'请填写客户密码'" /></td>
@@ -296,7 +293,6 @@
 		columns:[[
 			{ field:'chk',checkbox:true},
 			{ field:'name',title:'名称',width:100,sortable:true},
-			{ field:'password',title:'密码',width:100,sortable:true},
 			{ field:'realName',title:'真实姓名',width:100,sortable:true},
 			{ field:'idCard',title:'身份证号',width:100,sortable:true},
 			{ field:'mobile',title:'手机号',width:100,sortable:true},

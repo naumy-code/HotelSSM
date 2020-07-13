@@ -382,7 +382,6 @@
 				return img;
 			}},
 			{ field:'username',title:'用户名',width:100,sortable:true},
-			{ field:'password',title:'密码',width:100},
 			{ field:'roleId',title:'所属角色',width:100,formatter:function(value,row,index){
 				var roleList = $("#search-role").combobox('getData');
 				for(var i=0;i<roleList.length;i++){

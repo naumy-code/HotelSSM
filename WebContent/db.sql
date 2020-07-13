@@ -247,9 +247,6 @@ CREATE TABLE `menu` (
 -- ----------------------------
 -- Records of menu
 -- ----------------------------
-INSERT INTO `menu` VALUES ('1', '0', '系统设置', '', 'icon-advancedsettings');
-INSERT INTO `menu` VALUES ('5', '1', '菜单管理', '../admin/menu/list', 'icon-chart-organisation');
-INSERT INTO `menu` VALUES ('13', '1', '角色管理', '../admin/role/list', 'icon-group-key');
 INSERT INTO `menu` VALUES ('14', '0', '用户管理', '', 'icon-group-gear');
 INSERT INTO `menu` VALUES ('15', '14', '用户列表', '../admin/user/list', 'icon-group');
 INSERT INTO `menu` VALUES ('17', '5', '添加', 'openAdd()', 'icon-add');
