@@ -7,6 +7,9 @@
 
 
 > 运行环境 ：jdk14 web服务器：tomcat8.0 开发环境：eclipse 数据库：mysql  开发技术：SSM框架
+项目结构：
+![在这里插入图片描述](https://img-blog.csdnimg.cn/20200713230056351.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L25hdW15,size_16,color_FFFFFF,t_70)
+
 
 ## 2.软件环境
 项目     | Value
