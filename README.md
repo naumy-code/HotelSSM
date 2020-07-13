@@ -1,6 +1,6 @@
 
 个人博客：[https://blog.csdn.net/naumy](https://blog.csdn.net/naumy)
-链接： [https://pan.baidu.com/s/1GLYjm9rpn0e1-effcGHwwQ](https://pan.baidu.com/s/1GLYjm9rpn0e1-effcGHwwQ).
+百度网盘链接： [https://pan.baidu.com/s/1GLYjm9rpn0e1-effcGHwwQ](https://pan.baidu.com/s/1GLYjm9rpn0e1-effcGHwwQ).
 提取码：z12x
 ## 1.运行环境
 
