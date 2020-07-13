@@ -7,6 +7,11 @@
 
 
 > 运行环境 ：jdk14 web服务器：tomcat8.0 开发环境：eclipse 数据库：mysql  开发技术：SSM框架
+
+
+> 游客其身份得到验证后，他们就可以预订酒店，预定一个或者多个房间都可以，并能够设置酒店居住时间，只要游客在酒店预定的一定时间内可以实现退订酒店，优先级为高。商家可以登陆后台查看已经居> 住的房间，设置房间类型，查看酒店的订单。查看自己的营业额，也能够设置房型、楼层、房间。
+
+
 项目结构：
 ![在这里插入图片描述](https://img-blog.csdnimg.cn/20200713230056351.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L25hdW15,size_16,color_FFFFFF,t_70)
 
